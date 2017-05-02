@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+FileImport/packages
+.vs
+/Metadata
+FileImporter/Properties/PublishProfiles
+FileImporter/bin
+FileImporter/obj
+FileImport.Tests/bin
+FileImport/packages
+FileImport.Tests/obj
